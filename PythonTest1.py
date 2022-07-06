@@ -2,8 +2,8 @@ import websocket
 
 import pymongo
 
-print("Welcome Pycharm How are you doing today?!")
+print("Welcome Pycharm !")
 
-print("Welcome Pycharm How are you doing today?!")
+print("How are you doing today?!")
 
-print("Welcome Pycharm How are you doing today?!")
+print("Welcome VIP!")
